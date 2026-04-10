@@ -1,4 +1,21 @@
 # React + Vite
+-----------navbar ----------
+![alt text](image.png)
+-----------hero section------
+![alt text](image-1.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
