@@ -7,7 +7,11 @@
       "tags": ["Seerah", "Modern Reflection"],
       "by_writer": "Tariq Ramadan",
       "genre": "Prophetic Biography",
-      "rating": 4.7
+      "rating": 4.7,
+      "review": "A beautifully written modern reflection on the Prophet's life, blending historical facts with spiritual insights. Tariq Ramadan brings a fresh, humanistic perspective that resonates with contemporary readers.",
+      "number_of_pages": 256,
+      "publisher": "Oxford University Press",
+      "year_of_publishing": 2007
     },
     {
       "id": 2,
@@ -16,7 +20,11 @@
       "tags": ["Spirituality", "Tazkiyah"],
       "by_writer": "Hamza Yusuf",
       "genre": "Islamic Spirituality",
-      "rating": 4.9
+      "rating": 4.9,
+      "review": "An essential guide to the spiritual diseases of the heart and their cures, rooted in classical Islamic scholarship. Hamza Yusuf's translation and commentary make this timeless wisdom accessible to modern readers.",
+      "number_of_pages": 230,
+      "publisher": "Starlatch Press",
+      "year_of_publishing": 2004
     },
     {
       "id": 3,
@@ -25,7 +33,11 @@
       "tags": ["Motivation", "Self-help"],
       "by_writer": "Aaidh ibn Abdullah al-Qarni",
       "genre": "Islamic Self Development",
-      "rating": 4.8
+      "rating": 4.8,
+      "review": "A deeply uplifting and comforting book that draws from the Quran, Sunnah, and wisdom literature. It speaks directly to the heart, offering solace to anyone going through hardship or grief.",
+      "number_of_pages": 480,
+      "publisher": "International Islamic Publishing House",
+      "year_of_publishing": 2003
     },
     {
       "id": 4,
@@ -34,7 +46,11 @@
       "tags": ["Seerah", "Biography"],
       "by_writer": "Safiur Rahman Mubarakpuri",
       "genre": "Prophet Biography",
-      "rating": 5.0
+      "rating": 5.0,
+      "review": "The gold standard in Prophetic biography. Winner of the first prize by the Muslim World League, this comprehensive Seerah is meticulously researched, richly detailed, and an absolute must-read for every Muslim.",
+      "number_of_pages": 580,
+      "publisher": "Dar-us-Salam Publications",
+      "year_of_publishing": 1979
     },
     {
       "id": 5,
@@ -43,7 +59,11 @@
       "tags": ["Spirituality", "Modern"],
       "by_writer": "Yasmin Mogahed",
       "genre": "Personal Development",
-      "rating": 4.8
+      "rating": 4.8,
+      "review": "A heartfelt and poetic collection of essays on love, loss, and attachment. Yasmin Mogahed writes with raw honesty and spiritual depth, helping readers redirect their hearts toward Allah.",
+      "number_of_pages": 208,
+      "publisher": "FB Publishing",
+      "year_of_publishing": 2012
     },
     {
       "id": 6,
@@ -52,7 +72,11 @@
       "tags": ["Aqeedah", "Philosophy"],
       "by_writer": "Hamza Andreas Tzortzis",
       "genre": "Islamic Theology",
-      "rating": 4.7
+      "rating": 4.7,
+      "review": "A rigorous yet accessible philosophical defense of Islamic monotheism. Tzortzis tackles atheism and materialism head-on, offering compelling arguments for the existence of God and the truth of Islam.",
+      "number_of_pages": 312,
+      "publisher": "Yaqeen Institute",
+      "year_of_publishing": 2016
     },
     {
       "id": 7,
@@ -61,7 +85,11 @@
       "tags": ["History", "Civilization"],
       "by_writer": "Firas Alkhateeb",
       "genre": "Islamic History",
-      "rating": 4.9
+      "rating": 4.9,
+      "review": "A concise yet comprehensive journey through 1,400 years of Islamic civilization. Alkhateeb reclaims forgotten narratives with clarity and passion, making this an indispensable read for Muslims and non-Muslims alike.",
+      "number_of_pages": 248,
+      "publisher": "Hurst Publishers",
+      "year_of_publishing": 2014
     },
     {
       "id": 8,
@@ -70,7 +98,11 @@
       "tags": ["Productivity", "Lifestyle"],
       "by_writer": "Mohammed Faris",
       "genre": "Self Improvement",
-      "rating": 4.7
+      "rating": 4.7,
+      "review": "A practical and faith-driven approach to productivity that bridges Islamic values with modern life hacks. Mohammed Faris offers actionable strategies to help Muslims live purposefully and efficiently.",
+      "number_of_pages": 272,
+      "publisher": "Kube Publishing",
+      "year_of_publishing": 2015
     },
     {
       "id": 9,
@@ -79,7 +111,11 @@
       "tags": ["Faith", "Reflection"],
       "by_writer": "Nouman Ali Khan",
       "genre": "Islamic Reflection",
-      "rating": 4.8
+      "rating": 4.8,
+      "review": "A collection of powerful reflections drawn from Nouman Ali Khan's lectures. The book breathes new life into Quranic themes, making them deeply relevant to the struggles and questions of modern Muslims.",
+      "number_of_pages": 192,
+      "publisher": "Kube Publishing",
+      "year_of_publishing": 2017
     }
   ]
 }
