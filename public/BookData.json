@@ -1,0 +1,85 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "book_name": "In the Footsteps of the Prophet",
+      "book_image": "https://islamicpixels.com/cdn/shop/files/in-the-footsteps-of-the-prophet-saw-by-shaykh-mufti-saiful-islam-islamic-pixels-1_grande.jpg?v=1711377100",
+      "tags": ["Seerah", "Modern Reflection"],
+      "by_writer": "Tariq Ramadan",
+      "genre": "Prophetic Biography",
+      "rating": 4.7
+    },
+    {
+      "id": 2,
+      "book_name": "Purification of the Heart",
+      "book_image": "https://www.dakwahbookstore.com/wp-content/uploads/2020/12/website-500x500-2024-10-25T115330.470.jpg",
+      "tags": ["Spirituality", "Tazkiyah"],
+      "by_writer": "Hamza Yusuf",
+      "genre": "Islamic Spirituality",
+      "rating": 4.9
+    },
+    {
+      "id": 3,
+      "book_name": "Don't Be Sad",
+      "book_image": "https://dawahstore.ng/wp-content/uploads/2021/03/images-2021-03-10T120908.124.jpeg",
+      "tags": ["Motivation", "Self-help"],
+      "by_writer": "Aaidh ibn Abdullah al-Qarni",
+      "genre": "Islamic Self Development",
+      "rating": 4.8
+    },
+    {
+      "id": 4,
+      "book_name": "The Sealed Nectar",
+      "book_image": "https://futureislam.files.wordpress.com/2020/12/ar-raheeq-al-makhtum-e28093-the-sealed-nectar-biography-of-the-noble-prophet.jpg",
+      "tags": ["Seerah", "Biography"],
+      "by_writer": "Safiur Rahman Mubarakpuri",
+      "genre": "Prophet Biography",
+      "rating": 5.0
+    },
+    {
+      "id": 5,
+      "book_name": "Reclaim Your Heart",
+      "book_image": "https://img.drz.lazcdn.com/static/bd/p/ed5efb442fccf260d6c73ba45f51534c.jpg_720x720q80.jpg",
+      "tags": ["Spirituality", "Modern"],
+      "by_writer": "Yasmin Mogahed",
+      "genre": "Personal Development",
+      "rating": 4.8
+    },
+    {
+      "id": 6,
+      "book_name": "The Divine Reality",
+      "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSerKA0mlEp3eQdAL7IgAX_r2lP69FVlobLBA&s",
+      "tags": ["Aqeedah", "Philosophy"],
+      "by_writer": "Hamza Andreas Tzortzis",
+      "genre": "Islamic Theology",
+      "rating": 4.7
+    },
+    {
+      "id": 7,
+      "book_name": "Lost Islamic History",
+      "book_image": "https://img.drz.lazcdn.com/static/bd/p/e34300dd599e58bdef177f00520a25f2.jpg_720x720q80.jpg",
+      "tags": ["History", "Civilization"],
+      "by_writer": "Firas Alkhateeb",
+      "genre": "Islamic History",
+      "rating": 4.9
+    },
+    {
+      "id": 8,
+      "book_name": "The Productive Muslim",
+      "book_image": "https://cdn.othoba.com/images/thumbs/1115519_the-productive-muslim-where-faith-meets-productivity-by-faris-mohammad-paperback.jpeg",
+      "tags": ["Productivity", "Lifestyle"],
+      "by_writer": "Mohammed Faris",
+      "genre": "Self Improvement",
+      "rating": 4.7
+    },
+    {
+      "id": 9,
+      "book_name": "Revive Your Heart",
+      "book_image": "https://bukharibooks.com/wp-content/uploads/2019/07/reviveyourheart.png",
+      "tags": ["Faith", "Reflection"],
+      "by_writer": "Nouman Ali Khan",
+      "genre": "Islamic Reflection",
+      "rating": 4.8
+    }
+  ]
+}
