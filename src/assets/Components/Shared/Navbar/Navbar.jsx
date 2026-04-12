@@ -82,12 +82,12 @@ const Navbar = () => {
 
         <div className="navbar-end">
           <div className="flex items-center gap-4">
-            <a className="px-3 py-2 text-sm font-bold text-white bg-gradient-to-l from-green-600 to-green-400 hover:text-white hover:scale-105 transition-transform transition-colors duration-200 cursor-pointer rounded-md">
+            <Link to={"#"} className="px-3 py-2 text-sm font-bold text-white bg-gradient-to-l from-green-600 to-green-400 hover:text-white hover:scale-105 transition-transform transition-colors duration-200 cursor-pointer rounded-md">
               Sign In
-            </a>
-            <a className="px-3 py-2 text-sm font-bold text-white bg-gradient-to-r from-cyan-600 to-cyan-900 rounded-md hover:scale-105 transition-transform duration-200 cursor-pointer">
+            </Link>
+            <Link to={"#"} className="px-3 py-2 text-sm font-bold text-white bg-gradient-to-r from-cyan-600 to-cyan-900 rounded-md hover:scale-105 transition-transform duration-200 cursor-pointer">
               Sign Up
-            </a>
+            </Link>
           </div>
         </div>
 
